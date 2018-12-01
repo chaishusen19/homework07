@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 头部 */
+.header{
+    height: 85px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    
+}
+.title{
+    display: inline;
+}
+.navbar-link{
+    float: right;  
+}
+.navbar-link a{
+    line-height: 43px !important;
+    color: #B3B3B3;
+}
+.navbar-link .nav a:hover{
+    color: #2DAE36;
+    border-bottom: 2px solid #2DAE36;
+}
+
+/* 产品展示导航栏 */
+
+.nav-title{
+    padding-top: 20px;
+    width: 830px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav-title a{
+    text-decoration: none;
+    color: #858585;
+}
+.nav-title>a{
+    color: #2DAE36 !important;
+}
+.nav-title a:focus{
+    color: #2DAE36 !important;
+}
+.nav-title a:hover{
+    color: #333;
+}
+
+.product-list{
+    width: 830px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.table td{
+    border: 1px solid #ffffff !important;
+}
+.imgs img{
+    height: 203px;
+    width: 268px;
+}
+
+
+/* 底部 */
+.footer{
+    background: #dddddd;
+	height: 140px;
+	margin-top: 0;
+}
+
+.footer-center{
+	height: 140px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 31px;
+}
+.left1{
+    display: inline;
+}
+.left1 img{
+    height: 73px;
+    width: 100px;
+    
+}
+.footer li a{
+	color:#777;
+	text-align: center;
+	text-decoration: none;
+}
+.footer a:hover{
+	background-color: #dddddd;
+	color:#2dae36;
+}
+.copyright{
+    display: inline;
+	color:#777;
+    font-size: 12px;
+    text-align: center;
+    line-height: 2.4em;
+}
+.center1{
+    height: 75px;
+    width: 360px;
+    position: absolute;
+    top: 1013px;
+    left: 438px;
+}
+.right{
+	float: right;
+	top:-71px;
+	left: 650px;
+	color:#777;
+}
+
+#saoma{
+    position: fixed;
+    right: 0;
+    top: 150px;
+    bottom: 150px;
+
+}
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+ #saoma{
+     position: fixed;
+	 right: 0;
+	 top: 300px;
+ }

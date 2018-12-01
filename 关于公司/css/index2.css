@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 头部 */
+.header{
+    height: 85px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    
+}
+.title{
+    display: inline;
+}
+.navbar-link{
+    float: right;  
+}
+.navbar-link a{
+    line-height: 43px !important;
+    color: #B3B3B3;
+}
+.navbar-link .nav a:hover{
+    color: #2DAE36;
+    border-bottom: 2px solid #2DAE36;
+}
+
+.joinus_banner img{
+    height: 350px;
+}
+.container{
+    margin-top: 23px;
+    width: 1080px;
+} 
+
+.title1{
+    height: 44px;
+    border-bottom:1px solid #2DAE36;
+}
+.show{
+    background-color: #2DAE36;
+    color: #fff;
+    text-align: center;
+    padding-top: 9px;
+    height: 44px;
+    width: 121px;
+    font-size: 20px;
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+}
+.main{
+    height: 450px;
+}
+.main .left{
+    display: inline-block;
+    width: 512px;
+    margin-top: 50px;
+    
+}
+#map{
+    padding-left: 30px;
+}
+.main .right{
+    padding-top: 50px;
+    width: 512px;
+}
+.right .tips{
+    color: #2dae36;
+}
+.right p{
+    text-indent: 30px;
+    line-height: 23px;
+}
+
+
+
+
+
+/* 底部 */
+.footer{
+    background: #dddddd;
+	height: 140px;
+	margin-top: 0;
+}
+
+.footer-center{
+	height: 140px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 31px;
+}
+.left1{
+    display: inline;
+}
+.left1 img{
+    height: 73px;
+    width: 100px;
+    
+}
+.footer li a{
+	color:#777;
+	text-align: center;
+	text-decoration: none;
+}
+.footer a:hover{
+	background-color: #dddddd;
+	color:#2dae36;
+}
+.copyright{
+    display: inline;
+	color:#777;
+    font-size: 12px;
+    text-align: center;
+    line-height: 2.4em;
+}
+.center1{
+    height: 75px;
+    width: 360px;
+    position: absolute;
+    top: 978px;
+    left: 438px;
+}
+.right{
+	float: right;
+	top:-71px;
+	left: 650px;
+	color:#777;
+}
+
+#saoma{
+    position: fixed;
+    right: 0;
+    top: 150px;
+    bottom: 150px;
+
+}
